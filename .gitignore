@@ -1,3 +1,6 @@
+#ignore anything in data dolfer
+data/
+
 # History files
 .Rhistory
 .Rapp.history
