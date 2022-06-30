@@ -2,4 +2,6 @@
 
 Hellow khathu
 
-It is goona be amaizing
+It is gonna be amaizing
+
+It is not giving
