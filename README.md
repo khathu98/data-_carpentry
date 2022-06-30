@@ -2,4 +2,4 @@
 
 Hellow khathu
 
-It is goona be ammaizing
+It is goona be amaizing
